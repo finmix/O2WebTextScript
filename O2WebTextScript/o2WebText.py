@@ -332,22 +332,22 @@ numberList = ""
 # Personal Emails
 #print "Checking Danger Mouse Account"
 #checkAndSendEmail(' - O2 Account Login - ','PASSWORD','EMAIL SERVER',' - EMAIL ACCOUNT - ','PASSWORD',numberList, 'INCLUDE MSG DETAILS') 
-#checkAndSendEmail('denisfinnegan@gmail.com','xxxxxxxxx','pop.gmail.com','dangermousealert@gmail.com','xxxxxxxxx',"0876831770")
+#checkAndSendEmail('denisfinnegan@gmail.com','xxxxxxxxx','pop.gmail.com','xxxxxxxxx@gmail.com','xxxxxxxxx',"0876831770")
 
 
 # Work Check
 #print "Checking Tesco Diets Account"
 #checkAndSendEmail(' - O2 Account Login - ','PASSWORD','EMAIL SERVER',' - EMAIL ACCOUNT - ','PASSWORD',numberList, 'INCLUDE MSG DETAILS') 
-#checkAndSendEmail('0860485223','xxxxxxxxx','pop.gmail.com','tescodietsalert@gmail.com','xxxxxxxxx',"0876831770, 0868563879 ")
+#checkAndSendEmail('0860485223','xxxxxxxxx','pop.gmail.com','xxxxxxxxx@gmail.com','xxxxxxxxx',"0876831770, 0868563879 ")
 
 
 # Work Check
 #print "Checking Tesco Diets Other Account"
 #checkAndSendEmail(' - O2 Account Login - ','PASSWORD','EMAIL SERVER',' - EMAIL ACCOUNT - ','PASSWORD',numberList, 'INCLUDE MSG DETAILS') 
-#checkAndSendEmail('0860485223','xxxxxxxxx','pop.gmail.com','tdietalerts@gmail.com','xxxxxxxxx',"0876831770, 0868563879 ")
+#checkAndSendEmail('0860485223','xxxxxxxxx','pop.gmail.com','xxxxxxxxx@gmail.com','xxxxxxxxx',"0876831770, 0868563879 ")
 
 
 # Denis Text Account Check
 print "Checking Denis Text Account"
 #checkAndSendEmail(' - O2 Account Login - ','PASSWORD','EMAIL SERVER',' - EMAIL ACCOUNT - ','PASSWORD',numberList, 'INCLUDE MSG DETAILS') 
-checkAndSendEmail('denisfinnegan@gmail.com','xxxxxxxxx','pop.gmail.com','finmixtext@gmail.com','xxxxxxxxx',numberList, "no")
+checkAndSendEmail('denisfinnegan@gmail.com','xxxxxxxxx','pop.gmail.com','xxxxxxxxx@gmail.com','xxxxxxxxx',numberList, "no")
